@@ -1,0 +1,13 @@
+/* FOOTER lama */
+#footer- { width:960px; height:204px; background: url(images/footer.png) top center no-repeat;}
+.footerbanner-{ height:152px; }
+.footerbanner- a:hover {opacity:0.8;filter:alpha(opacity=40); /* For IE8 and earlier */}
+.footercopy-{ height:42px!important;background:url(images/footerbg.png) top center no-repeat; padding-top:10px!important;  text-align:center; color:#c2c2c2; font-size:10px}
+.footercopy- a:link, .footercopy a:visited {color:#e2e2e2} .footer a:hover { color:#fff}
+.alamat-{ color:#FFF; font-size:19px; margin:8px 0 10px 0; font-family: xxii_armystraight;text-shadow: 1px 1px 2px #000;}
+/* ------ */
+
+.grid_13suport-backup{width:165px; margin:60px 15px 0 15px; overflow:hidden; float:left; display:inline; color:#FFF; font-size:14px; text-align:center  }
+.grid_13banner-backup{width:166px; margin:29px 15px 0 10px; overflow:hidden; float:left; display:inline; }
+
+
